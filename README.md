@@ -1,6 +1,6 @@
 # 💻 James Weimer's IT & Cybersecurity Project Portfolio 🔐
 
-I'm passionate about IT and cybersecurity, and love tackling complex challenges through hands-on projects and active problem solving. From cloud systems and IT management, to vulnerability management and threat hunting/detection, to security operations and software development, these projects allow me to dive deep into the ever-evolving technology landscape. Please feel free to check them out and see the work I’ve put into setting up, managing, developing, and enhancing information technology and security operations and processes!
+I'm passionate about IT and cybersecurity, and love tackling complex challenges through hands-on projects and active problem solving. From cloud systems and IT management, to vulnerability management and threat hunting/detection, to security operations and software development, these projects allow me to dive deep into the ever-evolving technology landscape. Please feel free to check them out and see the work I’ve put into setting up, managing, developing, and enhancing information technology and security operations/processes!
 
 **[🔗 LinkedIn](https://www.linkedin.com)** | **[📧 Email](https://www.google.com)**
 
