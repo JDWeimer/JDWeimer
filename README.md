@@ -6,18 +6,9 @@ I'm passionate about IT and cybersecurity, and love tackling complex challenges 
 
 <hr/>
 
-## ☁️ Cloud Projects
-> - **[Microsoft Azure VM Lab Setup](https://www.github.com)** 🚧
-
-## 🗄️ IT Management Projects
-> - **[Active Directory Implementation](https://www.github.com)** 🚧
-
 ## ⚠️ Vulnerability Management Projects
 > - **[Vulnerability Management Program Implementation](https://github.com/JDWeimer/Vulnerability-Management-Implementation/)**
 > - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://www.github.com)** 🚧
 
 ## 🚨 Threat Hunting & Security Operations Projects
-> - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/JDWeimer/ThreatHuntingScenario-TOR/)** 🚧
-
-## 💾 Software Development Projects
-> - **[Unnamed Software Development Project](https://www.github.com)** 🚧
+> - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/JDWeimer/ThreatHuntingScenario-TOR/)**
