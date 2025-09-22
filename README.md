@@ -17,7 +17,7 @@ I'm passionate about IT and cybersecurity, and love tackling complex challenges 
 > - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://www.github.com)** 🚧
 
 ## 🚨 Threat Hunting & Security Operations Projects
-> - **[Threat Hunting Scenario (Tor Browser Usage)](https://www.github.com)** 🚧
+> - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/JDWeimer/ThreatHuntingScenario-TOR/)** 🚧
 
 ## 💾 Software Development Projects
 > - **[Unnamed Software Development Project](https://www.github.com)** 🚧
